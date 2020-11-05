@@ -1,0 +1,12 @@
+{
+  "name": "challenge-4",
+  "displayName": "challenge-4",
+  "expo": {
+    "name": "challenge-4",
+    "slug": "challenge-4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
